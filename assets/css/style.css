@@ -1,6 +1,6 @@
 :root{
---primary-color:  #ffe600;
---primary-color-darker: #ffd100 ;
+--primary-color: #fd5757 ;
+--primary-color-darker: #fc1d1d ;
 }
 *{
     outline: 0;
